@@ -1,7 +1,7 @@
 <h1> Tecnologias Utilizadas: 💻 </h1>
 
 <li>
-    <ul>Node.js</l>
+    <ul>Node.js</ul>
     <ul>Express</ul>
     <ul>SQLite</ul>
     <ul>Nunjucks</ul>
