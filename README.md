@@ -1,10 +1,10 @@
 <h1> Tecnologias Utilizadas: 💻 </h1>
 
 <li>
-    Node.js
-    Express
-    SQLite
-    Nunjucks
+    <ul>Node.js</l>
+    <ul>Express</ul>
+    <ul>SQLite</ul>
+    <ul>Nunjucks</ul>
 </li>
 
 <h4> Projeto desenvolvido durante a Next Level Week da Rocketseat </h4>
